@@ -1,0 +1,126 @@
+Visual Class Library c:\users\kim martinez\desktop\skin\clases\commctrl.vcx has the following errors:
+    Unknown CC_CONTROLCOUNT - Undefined
+    Unknown CC_MAYRELEASE - Undefined
+    Unknown CC_ONCONTROLCREATE - Undefined
+    Unknown CC_ONCONTROLDESTROY - Undefined
+    Unknown CC_ENABLEUIUPDATE - Undefined
+    Unknown CC_ISLIBRARYLOADED - Undefined
+    Unknown CC_ONFORMDESTROY - Undefined
+
+Form c:\users\kim martinez\desktop\skin\form\form_principal.scx has the following errors:
+    File ANTERIORN.PNG - Undefined
+    File ANTERIOR.PNG - Undefined
+    File PRIMERO.PNG - Undefined
+    File PRIMERON.PNG - Undefined
+    File SIGUIENTE.PNG - Undefined
+    File SIGUIENTEN.PNG - Undefined
+    File ULTIMO.PNG - Undefined
+    File ULTIMON.PNG - Undefined
+
+Visual Class Library c:\users\kim martinez\desktop\skin\clases\_argcommandbarsbase.vcx has the following errors:
+    Unknown ACB_PMHELPER - Undefined
+    File GRADIENTIMAGE.BMP - Undefined
+    File OFFICEBUTTONTOOLTIP2.BMP - Undefined
+    Unknown ACB_CREATEGRADIENTBITMAP - Undefined
+    Unknown ACB_ADDSITE - Undefined
+    Unknown ACB_REMOVESITE - Undefined
+    Unknown ACB_ADDCOMMANDBAR - Undefined
+    Unknown ACB_ADDCONTROL - Undefined
+    Unknown ACB_CONTROLSTATECHANGED - Undefined
+    Unknown ACB_SHOWPOPUPMENU - Undefined
+    Unknown ACB_INSTALLCLIENTPANEL - Undefined
+    Unknown ACB_REFRESHSITE - Undefined
+    Unknown ACB_GETOBJECTPTR - Undefined
+    Unknown ACB_COPYBITMAP - Undefined
+    Unknown ACB_CREATEICON - Undefined
+    Unknown ACB_LOADPICTUREFILE - Undefined
+    Unknown ACB_DOEVENTS - Undefined
+
+Visual Class Library c:\users\kim martinez\desktop\skin\clases\panel_comun.vcx has the following errors:
+    File WEBHOME.PNG - Undefined
+    File WEBHELP.PNG - Undefined
+
+Visual Class Library c:\users\kim martinez\desktop\skin\clases\panel_comercial.vcx has the following errors:
+    File EVOLUTION.PNG - Undefined
+
+Visual Class Library c:\users\kim martinez\desktop\skin\clases\listener.vcx has the following errors:
+    Visual Class Library _FRXCURSOR - Undefined
+
+Visual Class Library c:\users\kim martinez\desktop\skin\clases\foxribbon.vcx has the following errors:
+    File _VERIFICAR_TABLAS.BMP - Undefined
+
+Form c:\users\kim martinez\desktop\skin\form\form_principal_ant.scx has the following errors:
+    File ANTERIORN.PNG - Undefined
+    File ANTERIOR.PNG - Undefined
+    File PRIMERO.PNG - Undefined
+    File PRIMERON.PNG - Undefined
+    File SIGUIENTE.PNG - Undefined
+    File SIGUIENTEN.PNG - Undefined
+    File ULTIMO.PNG - Undefined
+    File ULTIMON.PNG - Undefined
+
+Visual Class Library c:\users\kim martinez\desktop\skin\clases\mydesigns.vcx has the following errors:
+    Form TEST_MESSAGEBOX - Undefined
+    Form SIDEBAR - Undefined
+    Form EXAMPLE2 - Undefined
+    Form EXAMPLE3 - Undefined
+    Form EXAMPLE4 - Undefined
+    Form EXAMPLE1 - Undefined
+    Form FRM_MOVI - Undefined
+    File REPUESTOS.ICO - Undefined
+    Form FRM_REQ - Undefined
+    Form FRM_REQAC - Undefined
+    File HELP 2 16.PNG - Undefined
+    Form FRM_MOV_TRAND - Undefined
+    Form FRM_MOV_TRAN - Undefined
+    File TRANSFE.PNG - Undefined
+    Form FRM_VALSALIDA - Undefined
+    File CONTACTS 24.PNG - Undefined
+    Form FRM_GREMISION - Undefined
+    File REPORTE.BMP - Undefined
+    Form FRM_OCOMPRA - Undefined
+    File _USUARIOS_32X32.BMP - Undefined
+    Form FRM_OSERVICIO - Undefined
+    File INGREDOCUM.ICO - Undefined
+    Form FRM_PEDCOTI - Undefined
+    Form FRM_HONORARIOS - Undefined
+    File HELP 2 24.PNG - Undefined
+    Form FRM_COMPRA - Undefined
+    Form FRM_LINEA_PRESUPUESTO - Undefined
+    Form FRM_PARTIDA_PRESUPUESTO - Undefined
+    File _FORMAS_PAGO.PNG - Undefined
+    Form FRM_RUBRO_PRESUPUESTO - Undefined
+    File ATENCIONES.ICO - Undefined
+    Form FRM_PRESUPUESTO - Undefined
+    Form FRM_PRESUPUESTOAPRUEBA - Undefined
+    File 112.ICO - Undefined
+    Form FRM_CCOSTO - Undefined
+    Form FRM_USERMOD_CLAVE - Undefined
+    Form FRM_USER_CREA - Undefined
+    Form FRM_CREA_EMPRESA - Undefined
+    File ALMACEN2.PNG - Undefined
+    Form FRM_PARAMEMP - Undefined
+    File EDITAR2.PNG - Undefined
+    Form FRM_ASISTENTE_BACKRESTORE - Undefined
+    File PRESUP.ICO - Undefined
+    File .PNG - Undefined
+    Program SALIR - Undefined
+    File CMD_SALIR.BMP - Undefined
+    File REGCONSUL.PNG - Undefined
+    File TECH SUPPORT 24.PNG - Undefined
+    Form FRM_BANCOS_OPE - Undefined
+    Form FRM_CTAS_PAGAR - Undefined
+    File LIBROLUPA.BMP - Undefined
+    Form FRM_RENDIR_APERTURA - Undefined
+    File ABIERTO.ICO - Undefined
+    Form FRM_RENDIR_CUENTA - Undefined
+    File CERRADO.ICO - Undefined
+
+Visual Class Library c:\users\kim martinez\desktop\skin\clases\libs_base.vcx has the following errors:
+    File EXCEL.PNG - Undefined
+    Unknown EJECUTA_SELECT - Undefined
+    Menu EDTSHORT - Undefined
+    Unknown ACAMPOS - Undefined
+    Unknown APARAM - Undefined
+    File FONDOPLANTILLA.PNG - Undefined
+

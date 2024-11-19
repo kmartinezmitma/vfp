@@ -1,0 +1,11 @@
+Function CC_IsLibraryLoaded
+Function CC_OnFormDestroy
+Function CC_ControlCount
+Function CC_OnControlCreate
+Function CC_OnControlDestroy
+Function CC_MayRelease
+Function CC_EnableUIUpdate
+Function CC_AddIdleHandler
+Function CC_RemoveIdleHandler
+Function CC_ResumeIdleHandler
+Function CC_SuspendIdleHandler
