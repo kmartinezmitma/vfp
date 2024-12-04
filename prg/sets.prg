@@ -13,3 +13,6 @@ SET ENGINEBEHAVIOR 70
 SET escape  OFF 
 
 _screen.Closable = .f.
+
+
+* Limea comentario KMM 

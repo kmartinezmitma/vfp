@@ -10,6 +10,6 @@ SET EXCLUSIVE OFF
 SET ENGINEBEHAVIOR 70
 
 
-SET escape OFF
+SET escape  OFF 
 
 _screen.Closable = .f.
